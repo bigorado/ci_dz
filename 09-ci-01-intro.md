@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img width="831" height="580" src="./images/1.jpg">
+  <img width="724" height="535" src="./images/1.jpg">
 </p>
 
 <p align="center">
