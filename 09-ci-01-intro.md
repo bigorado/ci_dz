@@ -29,3 +29,7 @@
 <p align="center">
   <img width="1613" height="555" src="./image/3.jpg">
 </p>
+
+1) [Bugs.xml](https://github.com/bigorado/ci_dz/blob/main/files/Bugs.xml)
+
+2) [AllTasks.xml](https://github.com/bigorado/ci_dz/blob/main/files/AllTasks.xml)
