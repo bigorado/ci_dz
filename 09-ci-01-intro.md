@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img width="1613" height="455" src="./images/3.jpg">
+  <img width="1613" height="355" src="./images/3.jpg">
 </p>
 
 1) [Bugs.xml](https://github.com/bigorado/ci_dz/blob/main/files/Bugs.xml)
