@@ -19,15 +19,15 @@
 
 
 <p align="center">
-  <img width="831" height="580" src="./image/1.jpg">
+  <img width="831" height="580" src="./images/1.jpg">
 </p>
 
 <p align="center">
-  <img width="754" height="448" src="./image/2.jpg">
+  <img width="754" height="448" src="./images/2.jpg">
 </p>
 
 <p align="center">
-  <img width="1613" height="555" src="./image/3.jpg">
+  <img width="1613" height="555" src="./images/3.jpg">
 </p>
 
 1) [Bugs.xml](https://github.com/bigorado/ci_dz/blob/main/files/Bugs.xml)
