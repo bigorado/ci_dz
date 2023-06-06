@@ -71,7 +71,7 @@ variable "vm_web_resources" {
   type = map
   default = {
     cores          = 2
-    memory         = 1
+    memory         = 4
     core_fraction  = 5
   }
 }
