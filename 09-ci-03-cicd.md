@@ -28,11 +28,11 @@
 C:\Sonar\bin\example> C:\Sonar\bin\sonar-scanner.bat -D"sonar.projectKey=test" -D"sonar.sources=." -D"sonar.host.url=http://158.160.108.192:9000" -D"sonar.login=17ab9c994f32344cec1e6d79eabf7772e1bc84ef"
 
 <p align="center">
-  <img width="1336" height="945" src="./image/3-1.JPG">
+  <img width="1336" height="945" src="./images/3-1.JPG">
 </p>
 
 <p align="center">
-  <img width="1350" height="936" src="./image/3-2.JPG">
+  <img width="1350" height="936" src="./images/3-2.JPG">
 </p>
 
 
