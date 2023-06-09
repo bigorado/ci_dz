@@ -13,7 +13,7 @@ data "yandex_compute_image" "centos" {
   family = "${var.vm_web_os}"
 }
 resource "yandex_compute_instance" "platform" {
-  count = 3
+  count = 2
   name        = "${ var.vm_web_platf }-${ var.vm_web_inst }-${count.index}"
 #  platform_id = "${var.vm_web_platf}"
 resources {
