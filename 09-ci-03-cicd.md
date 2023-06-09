@@ -73,6 +73,7 @@ C:\Sonar\bin\example> C:\Sonar\bin\sonar-scanner.bat -D"sonar.projectKey=test" -
 
 Ответы
 
+```shell
 [INFO] Building jar: C:\maven\bin\target\simple-app-1.0-SNAPSHOT.jar
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
@@ -80,6 +81,7 @@ C:\Sonar\bin\example> C:\Sonar\bin\sonar-scanner.bat -D"sonar.projectKey=test" -
 [INFO] Total time:  03:20 min 
 [INFO] Finished at: 2023-06-09T17:09:26+08:00
 [INFO] ------------------------------------------------------------------------
+```
 
 [pom.xml](https://github.com/bigorado/ci_dz/tree/main/files/pom.xml)
 
