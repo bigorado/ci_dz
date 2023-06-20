@@ -29,3 +29,20 @@
 18. Проверьте, что конфигурация в репозитории содержит все настройки конфигурации из teamcity.
 19. В ответе пришлите ссылку на репозиторий.
 
+Ответы:
+
+<p align="center">
+  <img width="1280" height="407" src="./images/teamcity/1.jpg">
+</p>
+
+<p align="center">
+  <img width="638" height="563" src="./images/teamcity/2.jpg"">
+</p>
+
+<p align="center">
+  <img width="666" height="543" src="./images/teamcity/3.jpg"">
+</p>
+
+
+[feature/add_reply](https://github.com/bigorado/example-teamcity/tree/feature/add_reply)
+
